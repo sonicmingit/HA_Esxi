@@ -1,0 +1,7 @@
+{
+  "domain": "ha_vcenter",
+  "name": "syjjx ESXI监控",
+  "documentation": "https://github.com/syjjx/HA_Esxi",
+  "requirements": ["pyvmomi==6.7.0.2018.9"],
+  "codeowners": ["@syjjx"]
+}

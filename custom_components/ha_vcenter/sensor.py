@@ -32,7 +32,7 @@ DATASTORE_DEFAULT="capacity"
 
 CONF_ATTRIBUTION="Powered by Syjjx"
 
-REQUIREMENTS = ['pyvmomi==6.7']
+REQUIREMENTS = ['pyvmomi==6.7.0.2018.9']
 
 from pyVmomi import vim, vmodl
 from pyVim.connect import SmartConnectNoSSL#, Disconnect
